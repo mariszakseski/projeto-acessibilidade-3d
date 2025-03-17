@@ -13,7 +13,10 @@ body {
 header {
     background-color: #ffffff;
 }
+.nav-img{
+    width: 30vw;
 
+}
 
 section {
     padding-bottom: 5rem;
