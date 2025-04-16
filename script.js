@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function (){
 
    botaoDeAcessibilidade.addEventListener('click', function(){
     botaoDeAcessibilidade.classList.toggle('rotacao-botao');
-    opcoesAcessibilidade.classList.toggle('apresenta-lista');
+    opcoesAcessibilidade.classList.toggle('apresenta-lista')
    })
 
    let tamanhoAtualFonte = 1;
